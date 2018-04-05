@@ -1,0 +1,31 @@
+{
+  "name": "VIPSTARCOIN-lib",
+  "main": "./VIPSTARCOIN-lib.min.js",
+  "version": "0.0.1",
+  "homepage": "http://www.vipstarcoin.jp/",
+  "authors": [
+    "VIPSTARCOIN"
+  ],
+  "description": "A pure, powerful core for your VIPSTARCOIN project.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "VIPSTARCOIN",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "lib",
+    "index.js",
+    "karma.conf.js",
+    "npm-shrinkwrap.json",
+    "test"
+  ]
+}
